@@ -5,6 +5,7 @@ STORE "Saya Senang" without value
 
 WHILE "for i < 100 i++" then
     WRITE ("Saya Senang")
+    INCREMENT "i"
 ENDWHILE
 
 DISPLAY "Saya Senang" from looping
