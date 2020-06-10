@@ -1,0 +1,10 @@
+START
+
+STORE "s" with value
+STORE "a" without value
+
+CALCULATE "s * s"
+
+DISPLAY "a" FROM CALCULATE
+
+END

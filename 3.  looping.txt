@@ -1,0 +1,12 @@
+START
+
+STORE "i" with value "0"
+STORE "Saya Senang" without value
+
+WHILE "for i < 100 i++" then
+    WRITE ("Saya Senang")
+ENDWHILE
+
+DISPLAY "Saya Senang" from looping
+
+END

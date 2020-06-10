@@ -1,0 +1,12 @@
+START
+
+STORE "a" with value
+STORE "b" with value
+STORE "c" with value
+STORE "result" without value
+
+CALCULATE "a * b * c"
+
+DISPLAY "result" from CALCULATE
+
+END
